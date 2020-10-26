@@ -13,7 +13,7 @@
 
 # 运行
 
-> [release页面](https://github.com/Kaytz/KayProxy/releases)中0.2.7及其之后的zip包将默认自带证书，该证书相对比较可靠。  
+> [release页面](https://github.com/Kaytz/KayProxy/releases)中1.0.1及其之后的zip包将默认自带证书，该证书相对比较可靠。  
 
 为了你的安全，还是建议你自己生成证书（windows需要自己下载openssl)
 

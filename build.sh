@@ -1,4 +1,4 @@
-CurrentVersion=0.2.7
+CurrentVersion=1.0.1
 Project=github.com/Kaytz/KayProxy
 Path="$Project/version"
 ExecName="KayProxy"
